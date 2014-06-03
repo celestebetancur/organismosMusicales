@@ -1,5 +1,5 @@
 #Organismos musicales
-<img align=center src="http://www.barkingsphinx.com/wp-content/uploads/2011/08/xenakis1.jpg" border=0>
+<img align="center" src="http://www.barkingsphinx.com/wp-content/uploads/2011/08/xenakis1.jpg">
 ===
 ¿Sabías que existe música que se desarrolla por si misma? ó ¿haz pensado que todos los sonidos que te rodean pueden ser 
 considerados arte sonoro y además estos sonidos pueden ser dotados de inteligencia artificial con las matemáticas? ...
