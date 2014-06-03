@@ -14,4 +14,4 @@ ___
 ###Inicia aquí si deseas empezar por lo básico
 ###Directo a las prácticas
 ####[Nivel inicial](https://github.com/essteban/organismosMusicales/blob/master/practicasIniciales.md)
-###Links 
+###[Links](https://github.com/essteban/organismosMusicales/blob/master/links.md) 
