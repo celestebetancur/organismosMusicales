@@ -13,4 +13,5 @@ Vamos a descubrir usando la ciencia y la experimentación como darle vida a un o
 ___
 ###Inicia aquí si deseas empezar por lo básico
 ###Directo a las prácticas
+####[Nivel inicial](https://github.com/essteban/organismosMusicales/blob/master/practicasIniciales.md)
 ###Links 
