@@ -4,12 +4,12 @@
 considerados arte sonoro y además estos sonidos pueden ser dotados de inteligencia artificial con las matemáticas? ...
 ¡Hay magia en los números y los sonidos, vamos a descubrirla!
 ___
-Todos conocemos música que nació de la inspiración de un artista, un compositor que usando su oido y algún instrumento tradicional como el piano, creaba música para el deleite de un público reunido quizás en un teatro.
+Todos conocemos música que nació de la inspiración de un artista, un compositor que usando su oído y algún instrumento tradicional como el piano, creaba música para el deleite de un público reunido quizás en un teatro.
 Pero es posible hacerlo de otro modo, ¿porque no dejar que sea la misma música la que determine su desarrollo? ¿y porque no 
 considerar arte sonoro el sentarse a escuchar los sonidos que ocurren en un parque?
 
 Vamos a descubrir usando la ciencia y la experimentación como darle vida a un organismo musical
 ___
-###Inicia aquí si deseas espezar por lo básico
+###Inicia aquí si deseas empezar por lo básico
 ###Directo a las prácticas
 ###Links 
