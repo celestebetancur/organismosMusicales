@@ -10,3 +10,6 @@ considerar arte sonoro el sentarse a escuchar los sonidos que ocurren en un parq
 
 Vamos a descubrir usando la ciencia y la experimentación como darle vida a un organismo musical
 ___
+###Inicia aquí si deseas espezar por lo básico
+###Directo a las prácticas
+###Links 
