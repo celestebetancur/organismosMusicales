@@ -15,6 +15,6 @@ ___
 ###Directo a las prácticas
 ####[Nivel inicial](https://github.com/essteban/organismosMusicales/blob/master/practicasIniciales.md)
 ####[Nivel medio](https://github.com/essteban/organismosMusicales/blob/master/practicasMedio.md)
-#####[Nivel avanzado]()
+####[Nivel avanzado]()
 ####[Nivel ninja]()
 ###[Links](https://github.com/essteban/organismosMusicales/blob/master/links.md) 
