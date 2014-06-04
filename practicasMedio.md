@@ -10,8 +10,8 @@ Empecemos usando solo 7 notas, las 7 notas que todos conocemos; esta estructura 
 - Se pueden proponer todo tipo de reglas
 - Se pueden usar las 12 notas (pitch class - jugar solo con los nombres sin usar diferentes registros)
 - Se pueden usar otro tipo de notas o escalas
-___
 
+___
 ###2)
 
 
