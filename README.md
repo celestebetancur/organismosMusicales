@@ -16,7 +16,7 @@ considerar arte sonoro el sentarse a escuchar los sonidos que ocurren en un parq
 
 Vamos a descubrir usando la ciencia y la experimentación como darle vida a un organismo musical
 ___
-###Inicia aquí si deseas empezar por lo básico
+###[Inicia aquí si deseas empezar por lo básico](https://github.com/essteban/organismosMusicales/blob/master/divulgacion.md)
 ###Directo a las prácticas
 ####[Nivel inicial](https://github.com/essteban/organismosMusicales/blob/master/practicasIniciales.md)
 ####[Nivel medio](https://github.com/essteban/organismosMusicales/blob/master/practicasMedio.md)
