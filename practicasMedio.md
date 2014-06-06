@@ -13,5 +13,12 @@ Empecemos usando solo 7 notas, las 7 notas que todos conocemos; esta estructura 
 
 ___
 ###2)
+¿Que significa la palabra "Algoritmo"? Esta palabra es mágica, porque gracias a este concepto es posible entender el funcionamiento de casi ¡todo lo que existe!, ¿pero que es un algoritmo? Un algoritmo es la descripción de un procedimiento, o mejor dicho, son instrucciones o reglas bien definidas, ordenadas y finitas que claramente describen los pasos para pasar de un punto a otro, o para realizar cualquier actividad.
+
+- Escribamos un algoritmo simple entre todos que describa una actividad simple.
+- Pensemos un algoritmo para formar un ritmo definido (por ejemplo un rock o pop) y uno indefinido.
+
+___
+###3)
 
 
