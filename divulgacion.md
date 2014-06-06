@@ -6,8 +6,9 @@ considerados arte sonoro y además estos sonidos pueden ser dotados de inteligen
 ¡Hay magia en los números y los sonidos, vamos a descubrirla!
 ___
 Todos conocemos música que nació de la inspiración de un artista, un compositor que usando su oído y algún instrumento tradicional como el piano, creaba música para el deleite de un público reunido quizás en un teatro.
-Pero es posible hacerlo de otro modo, ¿porque no dejar que sea la misma música la que determine su desarrollo? ¿y porque no 
-considerar arte sonoro el sentarse a escuchar los sonidos que ocurren en un parque?
+De esta forma de hacer música nacieron muchas de las formas, los sonidos y los instrumentos que conocemos...
+Pero es posible hacerlo de otro modo, ¿porque no dejar que sea la misma música la que determine su desarrollo? y ¿porque no considerar arte sonoro el sentarse a escuchar los sonidos que ocurren en un parque?
+¿Porque no ampliar el horizonte a otros sonidos?
 
 Vamos a descubrir usando la ciencia y la experimentación como darle vida a un organismo musical
 ___
