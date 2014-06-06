@@ -7,16 +7,26 @@ Para la primera práctica vamos a interpretar una partitura famosa de un composi
 segundos en actitud perceptiva, escuchando los sonidos que se produzcan alrededor.
 
 No es necesario usar el tiempo completo, la idea del ejercicio es llamar la atención sobre la existencia de sonidos 
-que se producen sin control de un artista, simplemente estan "ahí", además es importante notar que es imposible 
-reproducir exactamente las mismas condiciones y que la "interpretación" nunca podra ser replicada exactamente igual.
+que se producen sin control de un artista, simplemente están "ahí", además es importante notar que es imposible 
+reproducir exactamente las mismas condiciones y que la "interpretación" nunca podrá ser replicada exactamente igual.
 
 ###4'33''
 <img src="http://www.smartmusic.com/wp-content/uploads/2014/03/433-791x1024.png">
 ___
 ###2)
-Las notas tradicionalmente han recibido unos nombres que son: Notas["la","si","do","re","mi","fa","sol"], además de dos atributos o cualidades que son el sostenido o el bemol;  pero ¿porque no llamarlas de otro modo? intentemos llamarlas con números desde el 1 hasta el 7, el 8 como sostenido de la nota anterior y el 9 como bemol. Usamos el 0 como el silencio.
+Las notas tradicionalmente han recibido unos nombres que son: Notas["la","si","do","re","mi","fa","sol"], además de dos atributos o cualidades que son el sostenido o el bemol;  pero ¿porque no llamarlas de otro modo? intentemos llamarlas con números desde el 1 hasta el 7, el 8 como sostenido de la nota siguiente y el 9 como bemol. Usamos el 0 como el silencio.
 ¿como sonaría el número π?¿que tal si dividimos un par de números de 2 cifras, luego el resultado lo dividimos de nuevo en otro número de dos cifras y escuchamos a que suenan?¿que tal si la nota "la" no es nuestro número 1 y empezamos la numeración en otra nota?
+
+- Es posible jugar a los dados y ver a que suena el azar
+
 
 <img src="http://img254.imageshack.us/img254/6679/cyclej.jpg">
 ___
 ###3)
+Como seres pensantes tenemos la capacidad de tomar decisiones, para tomarlas podemos usar la experiencia y toda la información recibida a lo largo de la vida. 
+De esta misma forma, la música puede generar normas y mecanismos de respuesta ante diferentes situaciones, vamos a jugar a ser música y veamos como podemos responder ante las dificultades.
+
+- Proponer un ritmo simple, que pueda ser facilmente repetido por todos, luego, alguien que previamente fue elegido como operador, dará la orden para que el ritmo se acelere. Esto se hará tantas veces como sea necesario hasta que los jugadores comiencen a perder el control del ritmo.
+  - ¿Como responde este organismo musical a este problema?, el grupo puedo exigir que se reduzca la velocidad, o proponer cualquier tipo de respuesta creativa.
+  - El juego puede ser melódico, y el operador puede hacer que suban la altura o la bajen hasta que se presente el problema.
+  
