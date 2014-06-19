@@ -20,5 +20,8 @@ ___
 
 ___
 ###3)
-
+De igual forma es posible asigar números a los ritmos, según la forma como se asignen podemos jugar con ellos de diversas formas.
+- Se asigna una unidad rítmica y le damos un número conveniente, por ejemplo, si la duración mas larga es la blanca, le damos a esta el 0 y con respecto a ella asignamos valores a las otras figuras.
+- Otra forma, es asignar valores segun el número de pulsos empezando por el 0, y seguir en orden dentro de cada compás.
+- Una equivalente a la anterior es asignar números de posición a los pulsos en un compás.
 
